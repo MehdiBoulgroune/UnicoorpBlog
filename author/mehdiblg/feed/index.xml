@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mehdi boulgroune &#8211; Platforme de digital learning pour formation continue</title>
+	<atom:link href="http://mehdiboulgroune.github.io/UnicoorpBlog/author/mehdiblg/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mehdiboulgroune.github.io/UnicoorpBlog</link>
+	<description>Platforme de digital learning pour  formation continue</description>
+	<lastBuildDate>Sun, 23 Sep 2018 10:40:56 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>http://mehdiboulgroune.github.io/UnicoorpBlog/wp-content/uploads/2018/09/cropped-favicon-32x32.jpg</url>
+	<title>Mehdi boulgroune &#8211; Platforme de digital learning pour formation continue</title>
+	<link>http://mehdiboulgroune.github.io/UnicoorpBlog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>3 conseils pour lancer une startup après ses études</title>
+		<link>http://mehdiboulgroune.github.io/UnicoorpBlog/2018/09/09/3-conseils-pour-lancer-une-startup-apres-ses-etudes/</link>
+		<comments>http://mehdiboulgroune.github.io/UnicoorpBlog/2018/09/09/3-conseils-pour-lancer-une-startup-apres-ses-etudes/#respond</comments>
+		<pubDate>Sun, 09 Sep 2018 12:05:53 +0000</pubDate>
+		<dc:creator><![CDATA[Mehdi boulgroune]]></dc:creator>
+				<category><![CDATA[Non classé]]></category>
+
+		<guid isPermaLink="false">http://mehdiboulgroune.github.io/UnicoorpBlog/?p=36</guid>
+		<description><![CDATA[Depuis le succès de Microsoft, Facebook, et Google, Bill Gates, Mark Zuckerberg et plein d’autres nous ont prouvé qu’il était&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Depuis le succès de Microsoft, Facebook, et Google, Bill Gates, Mark Zuckerberg et plein d’autres nous ont prouvé qu’il était possible de créer les plus grands groupes du monde de sa chambre universitaire ou juste après ses études.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://mehdiboulgroune.github.io/UnicoorpBlog/2018/09/09/3-conseils-pour-lancer-une-startup-apres-ses-etudes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
